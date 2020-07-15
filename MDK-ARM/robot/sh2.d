@@ -1,0 +1,9 @@
+robot\sh2.o: ..\sh2\sh2.c
+robot\sh2.o: ..\sh2\sh2.h
+robot\sh2.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+robot\sh2.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+robot\sh2.o: ..\sh2\sh2_hal.h
+robot\sh2.o: ..\sh2\sh2_err.h
+robot\sh2.o: ..\sh2\shtp.h
+robot\sh2.o: ..\sh2\sh2_util.h
+robot\sh2.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
